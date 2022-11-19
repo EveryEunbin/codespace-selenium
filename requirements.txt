@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+pandas
+webdriver-manager
+selenium
+setuptools
+packaging
